@@ -1,12 +1,39 @@
-# React + Vite
+# Study Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal yet powerful Study Planner application built using **React.js** and **Vite**. It helps users manage study subjects and tasks effectively, keeping their academic progress organized.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add and remove subjects
+- Add tasks under specific subjects
+- Mark tasks as completed
+- Clear, responsive user interface
+- Simple and lightweight structure
 
-## Expanding the ESLint configuration
+## Project Structure
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+study_planner/ ├── public/ ├── src/ │ ├── components/ │ │ ├── SubjectList.jsx │ │ ├── TaskList.jsx │ ├── styles/ │ │ └── global.css │ ├── App.jsx │ └── main.jsx ├── .gitignore ├── index.html ├── package.json ├── vite.config.js └── README.md
+
+## Technologies Used
+
+- React.js (Functional Components with Hooks)
+- Vite (Fast bundler and dev server)
+- JavaScript (ES6+)
+- CSS (for styling)
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/study-planner.git
+
+# Navigate to the project directory
+cd study-planner
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
