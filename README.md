@@ -12,7 +12,7 @@ A minimal yet powerful Study Planner application built using **React.js** and **
 
 ## Project Structure
 
-study_planner/
+study_planner/    ${\n}                                                       
 ├── public/
 │   └── favicon.svg              # Optional icons or static files
 ├── src/
