@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import SubjectListComponent from "./components/SubjectList";
 import TaskListComponent from "./components/TaskList";
-import PomodoroTimerComponent from "./components/PomodoroTimer";
+import PomodoroTimerComponent from "./components/pomodoroTimer";
 import ProgressTrackerComponent from "./components/ProgressTracker";
-import HeaderComponent from "./components/Header";
+import HeaderComponent from "./components/header";
 import './styles/global.css';
 
 function App() {
