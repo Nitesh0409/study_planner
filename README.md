@@ -12,7 +12,22 @@ A minimal yet powerful Study Planner application built using **React.js** and **
 
 ## Project Structure
 
-study_planner/ ├── public/ ├── src/ │ ├── components/ │ │ ├── SubjectList.jsx │ │ ├── TaskList.jsx │ ├── styles/ │ │ └── global.css │ ├── App.jsx │ └── main.jsx ├── .gitignore ├── index.html ├── package.json ├── vite.config.js └── README.md
+study_planner/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── SubjectList.jsx
+│   │   └── TaskList.jsx
+│   ├── styles/
+│   │   └── global.css
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
 
 ## Technologies Used
 
