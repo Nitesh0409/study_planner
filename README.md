@@ -18,6 +18,10 @@ A minimal yet powerful Study Planner application built using **React.js** and **
 - JavaScript (ES6+)
 - CSS (for styling)
 
+## Demo Image
+![image](https://github.com/user-attachments/assets/9b99961e-20a7-42bb-a9af-23ced1d6c397)
+
+
 ## Getting Started
 
 To run this project locally:
